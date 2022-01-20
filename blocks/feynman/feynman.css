@@ -1,0 +1,13 @@
+.feynman {
+  min-height: 600px;
+  max-height: 790px;
+  height: 790px;
+  background-color: #f2f2f2;
+  display: flex;
+  margin: 0px 0px 100px;
+  padding: 0px;
+  position: relative;
+  overflow: hidden;
+  justify-content: stretch;
+  flex-direction: column;
+}
